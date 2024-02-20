@@ -4,7 +4,7 @@
        version="1.1" bean-discovery-mode="all">
 
   <alternatives>
-    <class>ru.miit.ProgrammingJ2EE.SortingMethod.HeapSort</class>
+    <class>ru.miit.ProgrammingJ2EE.Service.impl.HeightBySquareAndBase</class>
   </alternatives>
 
   <interceptors>

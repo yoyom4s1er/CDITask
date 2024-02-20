@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="195c56fe-e0a1-4655-8e8a-6405ac736a5d" name="Default" comment="" />
+    <list default="true" id="195c56fe-e0a1-4655-8e8a-6405ac736a5d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1CDI/META-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1CDI/META-INF/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/Component/TriangleHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/Component/TriangleHeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/Service/impl/HEIGHT_BY_SQUARE_AND_BASE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/Service/impl/HEIGHT_BY_SQUARE_AND_BASE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/SortingMethod/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/SortingMethod/HEAP_SORT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/SortingMethod/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/SortingMethod/ICollectionSorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/lab1Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1CDI/ru/miit/ProgrammingJ2EE/lab1Start.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/Component/TriangleHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/Component/TriangleHeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/Service/impl/HEIGHT_BY_SQUARE_AND_BASE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/Service/impl/HEIGHT_BY_SQUARE_AND_BASE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/SortingMethod/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/SortingMethod/HEAP_SORT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/SortingMethod/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/SortingMethod/ICollectionSorter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/lab1Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/miit/ProgrammingJ2EE/lab1Start.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +139,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -151,19 +173,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Andrey/Desktop/Lab1CDI/src/ru/miit/ProgrammingJ2EE/Service/impl/HEIGHT_BY_SIDES.java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "two.files.diff.last.used.file": "C:/Users/Andrey/Desktop/Lab1CDI/src/ru/miit/ProgrammingJ2EE/Service/impl/HEIGHT_BY_SIDES.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrey/Downloads/Lab2Decorator-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/Andrey/Desktop/Lab1CDI/src/ru/miit/ProgrammingJ2EE/Service/impl/HEIGHT_BY_SIDES.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.miit.ProgrammingJ2EE.SortingMethods" />
@@ -314,6 +338,8 @@
       <workItem from="1694612353679" duration="796000" />
       <workItem from="1695127699649" duration="839000" />
       <workItem from="1695158775211" duration="13621000" />
+      <workItem from="1695214925309" duration="4188000" />
+      <workItem from="1700757939566" duration="190000" />
     </task>
     <servers />
   </component>
